@@ -1,0 +1,26 @@
+body, p {
+    color: #94a1b2;
+}
+
+.hero {
+    padding-top: 6rem;
+    background-color: #242629;
+}
+
+h3 {
+    color: #fffffe;
+}
+
+label {
+    color: #fffffe;
+    font-weight: bold;
+}
+
+input {
+    color: #fffffe;
+    font-weight: bold;
+}
+
+section {
+    padding-top: 5rem;
+}
